@@ -9,5 +9,5 @@
         for (var j = 1; j <= cantidadDePasos; j++) {
           pasos = pasos + emojiPasos;
         }
-    console.log('Gato#' + i + ':' + emojiGato  + pasos )
+    console.log(' Gato #' + i + ': ' + emojiGato  + pasos )
      }
